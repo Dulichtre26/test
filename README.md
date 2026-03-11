@@ -2,6 +2,6 @@
 
 testDemo
 
-Mới sưa branch
+Mới sửa branch
 
-update tu branch
+update từ branch
